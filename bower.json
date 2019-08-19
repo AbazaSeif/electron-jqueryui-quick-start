@@ -1,0 +1,17 @@
+{
+  "name": "electron-jqueryui-quick-start",
+  "description": "A minimal Electron application with jQuery UI integration",
+  "main": "main.js",
+  "authors": [
+    "RedR00t"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AbazaSeif/electron-jqueryui-quick-start",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
